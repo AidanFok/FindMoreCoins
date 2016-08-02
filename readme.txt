@@ -1,0 +1,2 @@
+Input Specification:
+Each input file contains one test case. For each case, the first line contains 2 positive numbers: N (104, the total number of coins) and M(102, the amount of money Eva has to pay). The second line contains N face values of the coins, which are all positive numbers. All the numbers in a line are separated by a space.
